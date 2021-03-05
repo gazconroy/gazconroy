@@ -18,6 +18,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open API 3 documentation tools for OSS projects](https://gazconroy.github.io/digital-comma/open%20api/open-api-3-documentation-tools-for-oss-projects/)
+- [Migrating from Dropbox to Microsoft Teams and OneDrive](https://gazconroy.github.io/digital-comma/microsoft%20365/migrating-from-dropbox-to-microsoft-teams/)
+- [The benefits of a static site generator](https://gazconroy.github.io/digital-comma/jekyll/the-benefits-of-a-static-website-generator/)
+- [Technical writing time travel](https://gazconroy.github.io/digital-comma/technical%20writing/technical-writing-time-travel/)
+- [Let it flow!](https://gazconroy.github.io/digital-comma/microsoft%20365/let-it-flow/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub activity
