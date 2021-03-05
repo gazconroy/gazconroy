@@ -9,18 +9,12 @@
 
 **A technical writer specialising in APIs, intranet, digital workplace and technical content delivery**
 
-
-  🔭  **I’m currently working on:** [LemmyNet](https://github.com/LemmyNet)
-
-  📝  **I regularly write articles on:** [digital-comma](https://digital-comma.com/)
-
-  💬  **Ask me about:** Open API, AsyncAPI,technical writing, intranets
-
-  📫  **Reach me at:** info@digital-comma.com
-
-  📄  **Learn about my experience:** [on LinkedIn](https://www.linkedin.com/in/garyconroy/)
-
-  ⚡ **Fun fact:** I come from [the land of potato peel pie](https://en.wikipedia.org/wiki/Guernsey)
+- 🔭  **I’m currently working on:** [LemmyNet](https://github.com/LemmyNet)
+- 📝  **I regularly write articles on:** [digital-comma](https://digital-comma.com/)
+- 💬  **Ask me about:** Open API, AsyncAPI,technical writing, intranets
+- 📫  **Reach me at:** info@digital-comma.com
+- 📄  **Learn about my experience:** [on LinkedIn](https://www.linkedin.com/in/garyconroy/)
+- ⚡ **Fun fact:** I come from [the land of potato peel pie](https://en.wikipedia.org/wiki/Guernsey)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -33,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gazconroy&show_icons=true&locale=en" alt="gazconroy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gazconroy&" alt="gazconroy" /></p>
+
+## Quote of the day
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?layout=socrates)
