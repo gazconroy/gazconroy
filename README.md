@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garyconroy/)
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gazconroy)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@digital-comma.com)
-[![image](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://gazconroy.github.io/digital-comma/feed.xml)
+[![image](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://digital-comma.com/feed.xml)
 
 # Gary Conroy
 
@@ -18,10 +18,6 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Open API 3 documentation tools for OSS projects](https://gazconroy.github.io/digital-comma/open%20api/open-api-3-documentation-tools-for-oss-projects/)
-- [Migrating from Dropbox to Microsoft Teams and OneDrive](https://gazconroy.github.io/digital-comma/microsoft%20365/migrating-from-dropbox-to-microsoft-teams/)
-- [Let it flow!](https://gazconroy.github.io/digital-comma/microsoft%20365/let-it-flow/)
-- [Technical writing time travel](https://gazconroy.github.io/digital-comma/technical%20writing/technical-writing-time-travel/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub activity
