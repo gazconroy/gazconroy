@@ -18,6 +18,10 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Open API 3 documentation tools for OSS projects](https://digital-comma.com/open%20api/open-api-3-documentation-tools-for-oss-projects/)
+- [Migrating from Dropbox to Microsoft Teams and OneDrive](https://digital-comma.com/microsoft%20365/migrating-from-dropbox-to-microsoft-teams/)
+- [Let it flow!](https://digital-comma.com/microsoft%20365/let-it-flow/)
+- [Technical writing time travel](https://digital-comma.com/technical%20writing/technical-writing-time-travel/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub activity
