@@ -18,6 +18,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing human-readable JavaScript for APIs](https://digital-comma.com/javascript/writing-human-readable-javascript-for-apis.html)
 - [Open API 3 documentation tools for OSS projects](https://digital-comma.com/open%20api/open-api-3-documentation-tools-oss-projects.html)
 - [Migrating from Dropbox to Microsoft Teams and OneDrive](https://digital-comma.com/microsoft%20365/migrating-dropbox-microsoft-teams.html)
 - [Let it flow!](https://digital-comma.com/microsoft%20365/let-it-flow.html)
