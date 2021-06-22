@@ -9,7 +9,7 @@
 
 **A technical writer specialising in APIs, intranet, digital workplace and technical content delivery**
 
-- 🔭  **I’m currently working on:** [LemmyNet](https://github.com/LemmyNet) - ASyncAPI
+- 🔭  **I’m currently working for:** [Algolia](https://www.algolia.com/)
 - 📝  **I regularly write articles on** [digital-comma](https://digital-comma.com/)
 - 💬  **Ask me about:** Open API, AsyncAPI,technical writing, intranets
 - 📫  **Reach me at:** info@digital-comma.com
